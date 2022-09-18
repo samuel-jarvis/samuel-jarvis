@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there I'm Jarvis 👋
 
 <!--
 **samuel-jarvis/samuel-jarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on Projects 
 - 💬 Ask me about Javascript and ReactJs or Job Offers
-- 📫 How to reach me: [Twittter](https://twitter.com/SamJarvis244) 
+- 📫 How to reach me: [Twittter](https://twitter.com/SamJarvis244) or [mail](mailto:samueladeyemi244@gmail.com)
 
-# My Skills
+## My Skills
 * HTML/CSS
 * SASS/SCSS
 * Javascript
