@@ -4,12 +4,20 @@
 **samuel-jarvis/samuel-jarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Front End Development
-- 🌱 I’m currently learning ReactJs and Typescript
-- 👯 I’m looking to collaborate on Projecs 
-- 🤔 I’m looking for help with Volunteer Programs
-- 💬 Ask me about Javascripe and React
+- 🔭 I’m currently working on Freelance Projects or Learning a new Technology
+- 🌱 I’m currently learning Typescript
+- 👯 I’m looking to collaborate on Projects 
+- 💬 Ask me about Javascript and ReactJs or Job Offers
 - 📫 How to reach me: Twitter @SamJarvis244
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+# My Skills
+* HTML/CSS
+* SACC/SCSS
+* Javascript
+* Python
+* React Js
+* Learning Typescript
+* Django
+* Firebase
+* GSAP and Framer Motion
+* Heroku
