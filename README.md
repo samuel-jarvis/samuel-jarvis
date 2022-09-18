@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on Projects 
 - 💬 Ask me about Javascript and ReactJs or Job Offers
-- 📫 How to reach me: Twitter @SamJarvis244
+- 📫 How to reach me: [Twittter](https://twitter.com/SamJarvis244) 
 
 # My Skills
 * HTML/CSS
