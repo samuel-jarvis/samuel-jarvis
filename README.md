@@ -12,7 +12,7 @@
 
 # My Skills
 * HTML/CSS
-* SACC/SCSS
+* SASS/SCSS
 * Javascript
 * Python
 * React Js
