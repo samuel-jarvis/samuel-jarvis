@@ -17,7 +17,7 @@
 * Python
 * React Js
 * Learning Typescript
-* Django
 * Firebase
 * GSAP and Framer Motion
 * Heroku
+* MERN (Currently Learning)
