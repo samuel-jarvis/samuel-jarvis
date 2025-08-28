@@ -23,8 +23,8 @@ I'm a **backend-focused fullstack developer** passionate about building secure, 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-jarvis&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
-- **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/samuel-jarvis-dev)
-- **Email**: [your.email@example.com](jarvisdev277@gmail.com)
-- **Portfolio**: [yourportfolio.com](https://jarvis.cc.cc)
+- **LinkedIn**: [Jarvis Linkedin](https://www.linkedin.com/in/samuel-jarvis-dev)
+- **Email**: [Jarvis Email](jarvisdev277@gmail.com)
+- **Portfolio**: [Jarvis Portfolio](https://jarvis.cc.cc)
 
 I'm always excited to collaborate on innovative web projects or discuss how to solve complex business problems with code. Feel free to explore my repos, contribute, or reach out for a chat about **scalable APIs**, **secure systems**, or the latest in **web development**!
