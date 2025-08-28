@@ -24,7 +24,7 @@ I'm a **backend-focused fullstack developer** passionate about building secure, 
 
 ## 🤝 Let's Connect
 - **LinkedIn**: [Jarvis Linkedin](https://www.linkedin.com/in/samuel-jarvis-dev)
-- **Email**: [Jarvis Email](jarvisdev277@gmail.com)
+- **Email**: [Jarvis Email](samueljarvis244@gmail.com)
 - **Portfolio**: [Jarvis Portfolio](https://jarvis.cc.cc)
 
 I'm always excited to collaborate on innovative web projects or discuss how to solve complex business problems with code. Feel free to explore my repos, contribute, or reach out for a chat about **scalable APIs**, **secure systems**, or the latest in **web development**!
