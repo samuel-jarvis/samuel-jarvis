@@ -1,26 +1,30 @@
-## Hi there I'm Jarvis Full Stack Javascript Developer 👋
+# 👋 Hi, I'm Jarvis!
 
-<!--
-**samuel-jarvis/samuel-jarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I'm a **backend-focused fullstack developer** passionate about building secure, scalable, and business-driven web applications. My expertise lies in **JavaScript**, **TypeScript**, **Node.js (Express/NestJS)**, and **React/Next.js**, with a strong emphasis on **MongoDB**, **PostgreSQL**, **Docker**, and **test-driven development**. I prioritize **security** (OAuth, JWT, encryption) and delivering solutions that solve real-world business challenges.
 
-- 🔭 I’m currently working full time
-- 🌱 I’m currently learning Advanced Backend Concepts
-- 👯 I’m looking to collaborate on Projects and Full time Offers
-- 💬 Ask me about Javascript and Full stack web development
-- 📫 How to reach me: [Twittter](https://twitter.com/SamJarvis244) or [Mail](mailto:samueladeyemi244@gmail.com)
+## 🚀 What I Do
+- **Backend Development**: Architect robust APIs and microservices using **Node.js**, **Express**, and **NestJS**, optimized for performance and scalability.
+- **Frontend Development**: Craft dynamic, responsive interfaces with **React** and **Next.js**, leveraging server-side rendering and TypeScript for seamless user experiences.
+- **Databases**: Design and optimize **MongoDB** and **PostgreSQL** schemas for high-throughput applications.
+- **Testing & Security**: Write **Jest** unit tests for 90%+ code coverage and implement secure authentication to protect user data.
+- **Business Impact**: Deliver solutions that reduce latency, improve user retention, and drive measurable results.
 
-## My Skills
-* HTML/CSS
-* SASS/SCSS
-* Javascript
-* Python
-* React Js
-* Typescript
-* Firebase
-* GSAP and Framer Motion
-* Heroku
-* MERN 
-* Type ORM
-* TSOA
-* PostgreSQL
+- ## 🛠️ Tech Stack
+- **Languages**: JavaScript, TypeScript
+- **Frontend**: React, Next.js, HTML, CSS
+- **Backend**: Node.js, Express, NestJS
+- **Databases**: MongoDB, PostgreSQL
+- **Tools**: Docker, Git, GitHub Actions, Jest
+- **Security**: OAuth, JWT, Encryption
+- **Cloud**: AWS (learning), Vercel
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-jarvis&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-jarvis&layout=compact&theme=radical)
+
+## 🤝 Let's Connect
+- **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/samuel-jarvis-dev)
+- **Email**: [your.email@example.com](jarvisdev277@gmail.com)
+- **Portfolio**: [yourportfolio.com](https://jarvis.cc.cc)
+
+I'm always excited to collaborate on innovative web projects or discuss how to solve complex business problems with code. Feel free to explore my repos, contribute, or reach out for a chat about **scalable APIs**, **secure systems**, or the latest in **web development**!
