@@ -10,13 +10,12 @@ I'm a **backend-focused fullstack developer** passionate about building secure, 
 - **Business Impact**: Deliver solutions that reduce latency, improve user retention, and drive measurable results.
 
 - ## 🛠️ Tech Stack
-- **Languages**: JavaScript, TypeScript
+- **Languages**: JavaScript, TypeScript, Python
 - **Frontend**: React, Next.js, HTML, CSS
-- **Backend**: Node.js, Express, NestJS
+- **Backend**: Node.js, Express, NestJS, FastApi
 - **Databases**: MongoDB, PostgreSQL
 - **Tools**: Docker, Git, GitHub Actions, Jest
 - **Security**: OAuth, JWT, Encryption
-- **Cloud**: AWS (learning), Vercel
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-jarvis&show_icons=true&theme=radical)
@@ -27,4 +26,3 @@ I'm a **backend-focused fullstack developer** passionate about building secure, 
 - **Email**: [Jarvis Email](samueljarvis244@gmail.com)
 - **Portfolio**: [Jarvis Portfolio](https://jarvis.cc.cc)
 
-I'm always excited to collaborate on innovative web projects or discuss how to solve complex business problems with code. Feel free to explore my repos, contribute, or reach out for a chat about **scalable APIs**, **secure systems**, or the latest in **web development**!
