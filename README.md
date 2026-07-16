@@ -1,28 +1,86 @@
-# 👋 Hi, I'm Jarvis!
+# Hi, I'm Jarvis 👋
 
-I'm a **backend-focused fullstack developer** passionate about building secure, scalable, and business-driven web applications. My expertise lies in **JavaScript**, **TypeScript**, **Node.js (Express/NestJS)**, and **React/Next.js**, with a strong emphasis on **MongoDB**, **PostgreSQL**, **Docker**, and **test-driven development**. I prioritize **security** (OAuth, JWT, encryption) and delivering solutions that solve real-world business challenges.
+### Backend-Focused Full-Stack Engineer Building AI-Powered Products
 
-## 🚀 What I Do
-- **Backend Development**: Architect robust APIs and microservices using **Node.js**, **Express**, and **NestJS**, optimized for performance and scalability.
-- **Frontend Development**: Craft dynamic, responsive interfaces with **React** and **Next.js**, leveraging server-side rendering and TypeScript for seamless user experiences.
-- **Databases**: Design and optimize **MongoDB** and **PostgreSQL** schemas for high-throughput applications.
-- **Testing & Security**: Write **Jest** unit tests for 90%+ code coverage and implement secure authentication to protect user data.
-- **Business Impact**: Deliver solutions that reduce latency, improve user retention, and drive measurable results.
+I build backend systems and full-stack apps, and I’m currently focused on applying that experience to AI-powered products.
 
-- ## 🛠️ Tech Stack
-- **Languages**: JavaScript, TypeScript, Python
-- **Frontend**: React, Next.js, HTML, CSS
-- **Backend**: Node.js, Express, NestJS, FastApi
-- **Databases**: MongoDB, PostgreSQL
-- **Tools**: Docker, Git, GitHub Actions, Jest
-- **Security**: OAuth, JWT, Encryption
+I’ve been building software since 2020, mainly working on APIs, integrations, background jobs, and production systems. Now I’m exploring how to make AI features actually reliable and useful in real applications.
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-jarvis&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-jarvis&layout=compact&theme=radical)
+---
 
-## 🤝 Let's Connect
-- **LinkedIn**: [Jarvis Linkedin](https://www.linkedin.com/in/samuel-jarvis-dev)
-- **Email**: [Jarvis Email](samueljarvis244@gmail.com)
-- **Portfolio**: [Jarvis Portfolio](https://jarvis.cc.cc)
+## What I Work On
 
+### Backend Systems
+
+* APIs and service architecture
+* Auth, security, and integrations
+* Payments and third-party services
+* Background jobs and queues
+* Databases and performance
+
+### AI Engineering
+
+* LLM-powered apps
+* RAG and embeddings
+* AI workflows and tool calling
+* Async AI processing
+* Making AI systems more reliable
+
+### Full-Stack Development
+
+* React and Next.js apps
+* Connecting frontend to solid backend systems
+* Shipping features from idea to production
+
+---
+
+## Experience Highlights
+
+* Built APIs and systems used by **8,000+ users**
+* Worked on payment flows handling **$250K+**
+* Helped improve delivery speed by ~**40%** through refactoring
+* Built systems around auth, payments, notifications, and background jobs
+* Integrated services like payments, storage, messaging, and identity verification
+
+---
+
+## Technology Stack
+
+**Languages**
+`TypeScript` `JavaScript` `Python` `SQL`
+
+**Backend**
+`Node.js` `Express` `NestJS` `FastAPI`
+
+**AI**
+`LLM APIs` `RAG` `Embeddings` `Vector Search`
+
+**Databases & Processing**
+`PostgreSQL` `MongoDB` `Redis` `SQLite` `BullMQ`
+
+**Frontend**
+`React` `Next.js` `Tailwind CSS`
+
+**Tools**
+`Docker` `GitHub Actions` `Jest` `Pytest`
+
+---
+
+## Current Focus
+
+* Building better AI-powered apps
+* Learning more about RAG and AI workflows
+* Improving reliability and performance of AI systems
+
+---
+
+## Connect With Me
+
+* **LinkedIn:** https://www.linkedin.com/in/samuel-jarvis-dev
+* **Portfolio:** https://jarvis.cc.cc
+* **Email:** [samueljarvis244@gmail.com](mailto:samueljarvis244@gmail.com)
+* **GitHub:** https://github.com/samuel-jarvis
+
+---
+
+> Building backend systems that make AI products actually useful.
